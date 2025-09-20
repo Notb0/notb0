@@ -1,5 +1,5 @@
 <h1> <img src='ghost.gif' width='40' height='40'> Hi there 💫</h1>
-<h3>ᢉ𐭩 Welcome! I am a beginner JavaScript programmer. Here you can see my pet-projects, although there are not many of them, but I'm still learning)彡</h3>
+<h3>˗ˏˋ Welcome! I am a beginner JavaScript programmer. Here you can see my pet-projects, although there are not many of them, but I'm still learning)ˎˊ˗</h3>
 
 <h1>ᢉ𐭩 Technologies & Tools ‧₊˚</h1> 
 
